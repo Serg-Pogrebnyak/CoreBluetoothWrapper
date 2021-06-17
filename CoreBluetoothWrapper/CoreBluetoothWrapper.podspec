@@ -17,10 +17,10 @@ s.version = "0.0.1"
 s.author = { "Serhii Pohrebniak" => "pogrebnuak.sergey@gmail.com" }
 
 # 5 - Replace this URL with your own GitHub page's URL (from the address bar)
-s.homepage = "https://github.com/Serg-Pogrebnyak/CoreBluetoothWrapper"
+s.homepage = "https://github.com/Serg-Pogrebnyak/CoreBluetoothWrapper.git"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/Serg-Pogrebnyak/CoreBluetoothWrapper", 
+s.source = { :git => "https://github.com/Serg-Pogrebnyak/CoreBluetoothWrapper.git", 
              :tag => "#{s.version}" }
 
 # 7
